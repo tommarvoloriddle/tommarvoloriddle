@@ -16,7 +16,15 @@ Full-stack Development
 * Commodity trading and pricing algorithms for oil and natural gas companies.
 * UI for tracking and distribution for b2b companies.
 
-## Open source contributions not involving SAP Labs available at https://github.com/tommarvoloriddle.
+### Open source contributions not involving SAP Labs available at https://github.com/tommarvoloriddle.
+
+Technozion 
+* [Tz-2019](https://play.google.com/store/apps/details?id=org.technozion.technozion19)
+* [TZ-2018](https://play.google.com/store/apps/details?id=org.technozion.technozion18)
+NPM
+* [React-native-forms](https://www.npmjs.com/package/react-native-form-view)
+Letsendore
+* [React-natove-app](https://www.letsendorse.com/)
 
 <p align="center">
 <a href="https://github.com/tommarvoloriddle">
